@@ -1,0 +1,44 @@
+<!DOCTYPE html>: Define la versión de HTML que estás utilizando.
+<html>: Elemento raíz que engloba todo el contenido de la página.
+<head>: Contiene metadatos y enlaces a hojas de estilo y scripts.
+<meta>: Define metadatos como el conjunto de caracteres, la descripción de la página, etc.
+<link>: Enlaza hojas de estilo externas.
+<script>: Enlaza scripts o contiene código JavaScript.
+<title>: Define el título de la página que se muestra en la pestaña del navegador.
+<body>: Contiene el contenido visible de la página.
+<h1>, <h2>, <h3>, <h4>, <h5>, <h6>: Encabezados de diferentes niveles.
+<p>: Párrafo de texto.
+<br>: Salto de línea.
+<figure>: representa contenido independiente y te permitirá asociar una imagen a una descripción.
+<figcaption>: se utiliza para añadir una descripción o leyenda para describir una imagen anidada en un elemento <figure>.
+<em>: Enfatiza la palabra en el elemento figcaption envolviendola en un elemento énfasis 
+<trong>: se utiliza para indicar que una parte de un texto es importante o urgente. 
+<ul>: Lista no ordenada.
+<ol>: Lista ordenada.
+<li>: Elemento de lista.
+<a>: Enlace hipertexto.
+<img>: Imagen.
+<div>: Contenedor genérico.
+<span>: Contenedor en línea genérico.
+<form>: Formulario.
+action: indica, dónde deben enviarse los datos del formulario.
+<input>: Campo de entrada.
+<textarea>: Área de texto multilinea.
+<button>: Botón.
+<label>: Etiqueta para un campo de entrada.
+<select>: Lista desplegable.
+<option>: Opción de una lista desplegable.
+<table>: Tabla.
+<tr>: Fila de la tabla.
+<th>: Celda de encabezado.
+<td>: Celda de datos.
+<iframe>: Marco en línea para incrustar contenido externo.
+<video>: Elemento para reproducir video.
+<source>: Define las fuentes de video para diferentes formatos.
+<audio>: Elemento para reproducir audio.
+<source>: Define las fuentes de audio para diferentes formatos.
+<nav>: Define una sección de navegación.
+<aside>: Define contenido relacionado pero no esencial.
+<footer>: Define el pie de página de la página web.
+<header>: Define la cabecera de la página.
+<main>: Define el contenido principal de la página.

@@ -1,0 +1,54 @@
+CSS
+
+Color y fondo:
+color: Define el color del texto.
+background-color: Define el color de fondo de un elemento.
+background-image: Especifica una imagen de fondo.
+background-size: Controla el tamaño de la imagen de fondo.
+opacity: Define la opacidad de un elemento.
+
+Texto:
+font-family: Establece la fuente o tipo de letra.
+font-size: Define el tamaño de la fuente.
+font-weight: Controla el grosor de la fuente (negrita).
+text-align: Alinea el texto (izquierda, derecha, centrado, justificado).
+text-decoration: Agrega decoraciones al texto (subrayado, tachado, etc.).
+line-height: Controla la altura de línea del texto.
+
+Espaciado y márgenes:
+margin: Define el margen exterior de un elemento.
+padding: Define el espacio interno de un elemento.
+border: Establece bordes alrededor de un elemento.
+
+Dimensiones:
+width: Define el ancho de un elemento.
+height: Define la altura de un elemento.
+max-width y max-height: Limitan el tamaño máximo de un elemento.
+min-width y min-height: Establecen el tamaño mínimo de un elemento.
+
+Posicionamiento:
+position: Controla el método de posicionamiento (relativo, absoluto, fijo).
+top, right, bottom, left: Define la ubicación de un elemento posicionado.
+float: Controla el flujo de elementos en relación con otros elementos.
+clear: Evita que los elementos floten alrededor de otros elementos flotantes.
+
+Visualización:
+display: Controla cómo se muestra un elemento (bloque, en línea, en línea-bloque).
+visibility: Controla si un elemento es visible o no.
+
+Flexbox y Grid:
+Propiedades relacionadas con la creación de diseños flexibles y basados en cuadrícula.
+
+Animaciones y transformaciones:
+Propiedades como animation, transition, transform, que permiten crear efectos animados.
+
+Pseudo-clases y pseudo-elementos:
+Permiten seleccionar y estilizar elementos en estados específicos o partes de un elemento (por ejemplo, :hover, :nth-child, ::before, ::after).
+
+Media queries:
+@media: Permite aplicar estilos específicos según el tamaño de la pantalla o el dispositivo.
+
+Otros:
+z-index: Controla la superposición de elementos.
+box-shadow: Agrega sombras a elementos.
+text-transform: Cambia la transformación del texto (mayúsculas, minúsculas, etc.).
